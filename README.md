@@ -1,4 +1,3 @@
-# HT-renpy-assets
 # HamarTech Ren'Py Workshop Assets
 
 This repository contains visual and audio assets created for the HamarTech Ren'Py workshop.
